@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Data Engineering with Spark/Pyspark
 - 📫 How to reach me: e-mail = leonardomartinho15@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I like Ghibli films
+- ⚡ Fun fact: I wanted to be a cartoonist! Oh well...
 
 <!---
 leonardoalvesm/leonardoalvesm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
